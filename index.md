@@ -19,9 +19,9 @@ hello world!
 2. Hello World
 3. Hello World !!!!
 
-Horizontal Rule:
+HELLO WORLD:
 ---
-`Inline code` with backticks
+`HELLO WORLD!!!` 
 
 
 ```
