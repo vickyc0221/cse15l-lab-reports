@@ -1,5 +1,13 @@
-# Week 1 Screenshot
-![Image](img2.png)
-[Lab Report 1](lab-report-1-week-2.html)
+# How To Log Into a Course-Specific Account On ieng6
 
-[Lab Report 1](https://vickyc0221.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+## Installing VScode
+
+## Remotely Connecting
+
+## Trying Some Commands
+
+## Moving Files with scp
+
+## Setting an SSH Key
+
+## Optimizing Remote Running
