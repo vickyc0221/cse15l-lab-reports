@@ -1,2 +1,2 @@
-![image](image1.png)
+![image](img2.png)
 >Screenshot from week 1
