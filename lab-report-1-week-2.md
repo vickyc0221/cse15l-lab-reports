@@ -13,6 +13,18 @@ To remotely connect you would start by downloading a program called [OpenSSH](ht
 
 ![Image](loginVSC.png)
 ## Trying Some Commands
+To try some commands, you would simply type the command into the command line of your terminal. 
+Here are a list of commands to get you started:
+- cd: `changes to previous directory`
+- cd~: `takes you to the home directory`
+- ls: `lists the files in the current directory`
+- Ls-l: `long listing(shows: who can read the file, chracter/bytes in file, date modified, etc)`
+- Pwd: `prints the working directory(shows the file path)`
+- Ssh: `secure shell`
+- CP: `copy file`
+
+After running a couple commands your terminal should look similar to this:
+![Image](commandTest.png)
 
 ## Moving Files with scp
 
