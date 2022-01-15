@@ -9,7 +9,7 @@ In order to install VScode, you will need to click on the link above. This link 
 > This may look different depending on the operating systems as well as the color schemes chosen for your VScode.
 
 ## Remotely Connecting
-To remotely connect you would start by downloading a program called [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). This program is specific to Windows users.Then you are going to connect remotely through VScode, so you have to open the application up. Once VScode is open you are going to enter your course-specific account in the command line of your terminal. You are then going to enter your password and end up with a screen that looks like: 
+To remotely connect you would start by downloading a program called [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). This program is specific to Windows users.Then you are going to connect remotely through VScode. Once VScode is open you are going to enter your course-specific account in the command line of your terminal. You are then going to enter your password and end up with a screen that looks like: 
 
 ![Image](CSVSC.png)
 ## Trying Some Commands
@@ -51,3 +51,6 @@ To optimize remote running between clients and servers, you can implement the co
 
 * `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI` the use of semicolos, allows for you to run multiple commands on the same command line
 * `use the up, down arrows`: use the last command that you ran
+
+![Image](Optimize.png)
+> This is an example of what your terminal should look like when running the ssh and cp commands.
