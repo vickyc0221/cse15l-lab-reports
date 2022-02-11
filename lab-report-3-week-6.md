@@ -1,10 +1,16 @@
 # Streamlining ssh Configuration
 
 ## File/Editor
-Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
+
+![Image](Config.png)
+>Created a new file using windows built-in notepad.
 
 ## ssh Command Login
-Show the ssh command logging you into your account using just the alias you chose.
+
+![Image](ALI.png)
+>ssh command logging into account using alias, **ieng6**
 
 ## scp Command Copy File
-Show an scp command copying a file to your account using just the alias you chose.
+
+![Image](copy.png)
+>scp command copying file into account using alias
