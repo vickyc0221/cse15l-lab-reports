@@ -33,7 +33,7 @@ Their test results:
 
 
 ## Questions
-**Question 2:** Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+**Question 1:** Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 **Answer:** We could implement a code the way that we did to ignore the ! previously. We could have a portion of code dedicated to filtering through the backticks and working around them.
 
